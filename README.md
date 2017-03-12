@@ -41,7 +41,7 @@ Dániel Berecz | [GitHub][me_github] | [Twitter][me_twitter] | [Email][me_email]
 [me_email]: dani.madvillain@gmail.com
 [issues]: https://github.com/papers-we-love/budapest/issues
 [essence]: https://www.meetup.com/Papers-We-Love-Budapest/events/237294183/
-[essence_files]: https://github.com/BP-HUG/papers-we-love/budapest/tree/master/2017_march
+[essence_files]: https://github.com/papers-we-love/budapest/tree/master/2017_march
 [c9_essence]: https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Lmmel-AFP-The-Quick-Essence-of-Functional-Programming
 [wadler_essence]: http://homepages.inf.ed.ac.uk/wadler/topics/monads.html
 [monad_intro]: http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
