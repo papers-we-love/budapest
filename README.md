@@ -12,6 +12,19 @@ If you need to reach out to us or have ideas for papers, just ask us via our [Tw
 
 If you have a paper you love and want to give a presentation about it, create an [issue][issues] on this repo.
 
+### Past presentations
+
+#### :book: The Essence of Functional Programming (2017-03-02)
+
+* [Presentation slides](https://github.com/BP-HUG/presentations/blob/master/2017_march/essence_of_fp.pdf)
+* [Presentation code][essence_files]
+* [Meetup site][essence]
+
+##### Additional resources:
+* The original paper: [Philip Wadler - The Essence of Functional Programming][wadler_essence]
+* [Channel 9 presentation based on the original paper][c9_essence]
+* [A good intro to monads][monad_intro]
+
 ### Information
 
 Events are posted to the Papers We Love Budapest [meetup group][meetup].
@@ -27,3 +40,8 @@ Dániel Berecz | [GitHub][me_github] | [Twitter][me_twitter] | [Email][me_email]
 [me_twitter]: https://twitter.com/DanielBerecz
 [me_email]: dani.madvillain@gmail.com
 [issues]: https://github.com/papers-we-love/budapest/issues
+[essence]: https://www.meetup.com/Papers-We-Love-Budapest/events/237294183/
+[essence_files]: https://github.com/BP-HUG/papers-we-love/budapest/tree/master/2017_march
+[c9_essence]: https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Lmmel-AFP-The-Quick-Essence-of-Functional-Programming
+[wadler_essence]: http://homepages.inf.ed.ac.uk/wadler/topics/monads.html
+[monad_intro]: http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
