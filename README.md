@@ -79,7 +79,7 @@ Dániel Berecz | [GitHub][me_github] | [Twitter][me_twitter] | [Email][me_email]
 [monad_intro]: http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 
 [karoly_video]: https://www.youtube.com/watch?v=fcymPIIPPCE
-[karoly_playground]: https://github.com/BP-HUG/presentations/blob/master/2017_july/
+[karoly_playground]: https://github.com/papers-we-love/budapest/tree/master/2017_july/
 [karoly_redblack]: https://www.meetup.com/Papers-We-Love-Budapest/events/240916381/
 [okasaki_redblack]: http://www.usma.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/jfp99redblack.pdf
 [okasaki_book]: https://www.amazon.com/dp/B00AKE1V04
